@@ -1,2 +1,2 @@
 # Test
-Test Pro
+Test Pro for git commands
